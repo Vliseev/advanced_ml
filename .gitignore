@@ -63,3 +63,7 @@ intro-to-deep-learning/week2/\ MNIST_data
 intro-to-deep-learning/week2/my/directory/
 
 *.pickle
+
+*.pkl
+
+*.h5
