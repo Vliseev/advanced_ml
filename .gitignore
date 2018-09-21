@@ -67,3 +67,9 @@ intro-to-deep-learning/week2/my/directory/
 *.pkl
 
 *.h5
+
+*.tgz
+
+*.mat
+
+intro-to-deep-learning/week4/lfw_attributes\.txt
